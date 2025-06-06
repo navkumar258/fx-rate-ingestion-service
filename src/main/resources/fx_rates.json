@@ -1,0 +1,702 @@
+[
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.559,
+    "ask": 205.605,
+    "timestamp": 1748529900000,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.968,
+    "ask": 124.013,
+    "timestamp": 1748529900282,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0829,
+    "ask": 1.0832,
+    "timestamp": 1748529900748,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6153,
+    "ask": 0.6156,
+    "timestamp": 1748529901317,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.474,
+    "ask": 205.499,
+    "timestamp": 1748529900540,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.364,
+    "ask": 1.3645,
+    "timestamp": 1748529902280,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6653,
+    "ask": 0.6657,
+    "timestamp": 1748529900762,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.185,
+    "ask": 169.228,
+    "timestamp": 1748529902107,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3651,
+    "ask": 1.3656,
+    "timestamp": 1748529901320,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.435,
+    "ask": 205.475,
+    "timestamp": 1748529904275,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.56,
+    "ask": 205.587,
+    "timestamp": 1748529901540,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.199,
+    "ask": 169.225,
+    "timestamp": 1748529903586,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6147,
+    "ask": 0.615,
+    "timestamp": 1748529904416,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3647,
+    "ask": 1.3651,
+    "timestamp": 1748529903042,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6147,
+    "ask": 0.6152,
+    "timestamp": 1748529901092,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.236,
+    "ask": 169.265,
+    "timestamp": 1748529905175,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.037,
+    "ask": 124.076,
+    "timestamp": 1748529903744,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.559,
+    "ask": 205.58,
+    "timestamp": 1748529900935,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3656,
+    "ask": 1.3659,
+    "timestamp": 1748529900936,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9078,
+    "ask": 0.9083,
+    "timestamp": 1748529900969,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2698,
+    "ask": 1.2704,
+    "timestamp": 1748529902480,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.542,
+    "ask": 205.567,
+    "timestamp": 1748529907791,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.959,
+    "ask": 124.003,
+    "timestamp": 1748529909526,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.456,
+    "ask": 205.492,
+    "timestamp": 1748529908740,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.977,
+    "ask": 124.008,
+    "timestamp": 1748529908544,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6152,
+    "ask": 0.6156,
+    "timestamp": 1748529907875,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.005,
+    "ask": 124.035,
+    "timestamp": 1748529907618,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6152,
+    "ask": 0.6157,
+    "timestamp": 1748529903429,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0821,
+    "ask": 1.0827,
+    "timestamp": 1748529903360,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.172,
+    "ask": 169.207,
+    "timestamp": 1748529905046,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.219,
+    "ask": 169.251,
+    "timestamp": 1748529906690,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.665,
+    "ask": 0.6656,
+    "timestamp": 1748529910292,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.184,
+    "ask": 169.226,
+    "timestamp": 1748529911136,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6652,
+    "ask": 0.6655,
+    "timestamp": 1748529914520,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9078,
+    "ask": 0.9082,
+    "timestamp": 1748529903060,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.9116,
+    "ask": 0.9122,
+    "timestamp": 1748529909170,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2696,
+    "ask": 1.2702,
+    "timestamp": 1748529917136,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.366,
+    "ask": 1.3667,
+    "timestamp": 1748529910693,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3646,
+    "ask": 1.3649,
+    "timestamp": 1748529906194,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6651,
+    "ask": 0.6655,
+    "timestamp": 1748529914781,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.017,
+    "ask": 124.039,
+    "timestamp": 1748529904240,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.504,
+    "ask": 205.527,
+    "timestamp": 1748529909471,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.508,
+    "ask": 205.558,
+    "timestamp": 1748529910458,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.9114,
+    "ask": 0.912,
+    "timestamp": 1748529908385,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.911,
+    "ask": 0.9116,
+    "timestamp": 1748529903212,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6153,
+    "ask": 0.616,
+    "timestamp": 1748529921870,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6646,
+    "ask": 0.6651,
+    "timestamp": 1748529920378,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2705,
+    "ask": 1.271,
+    "timestamp": 1748529908648,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.364,
+    "ask": 1.3645,
+    "timestamp": 1748529920544,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.436,
+    "ask": 205.469,
+    "timestamp": 1748529908379,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9083,
+    "ask": 0.9088,
+    "timestamp": 1748529915700,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.023,
+    "ask": 124.069,
+    "timestamp": 1748529908517,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.9118,
+    "ask": 0.9122,
+    "timestamp": 1748529925168,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.006,
+    "ask": 124.03,
+    "timestamp": 1748529926129,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0817,
+    "ask": 1.0821,
+    "timestamp": 1748529924678,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.987,
+    "ask": 124.019,
+    "timestamp": 1748529920680,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6152,
+    "ask": 0.6158,
+    "timestamp": 1748529915736,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6152,
+    "ask": 0.6157,
+    "timestamp": 1748529912939,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.364,
+    "ask": 1.3647,
+    "timestamp": 1748529918908,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.983,
+    "ask": 124.027,
+    "timestamp": 1748529915930,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6146,
+    "ask": 0.6153,
+    "timestamp": 1748529907920,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.02,
+    "ask": 124.057,
+    "timestamp": 1748529911163,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.469,
+    "ask": 205.502,
+    "timestamp": 1748529917670,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3651,
+    "ask": 1.3654,
+    "timestamp": 1748529919971,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6651,
+    "ask": 0.6658,
+    "timestamp": 1748529927968,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.9119,
+    "ask": 0.9124,
+    "timestamp": 1748529932500,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0829,
+    "ask": 1.0835,
+    "timestamp": 1748529911418,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.562,
+    "ask": 205.588,
+    "timestamp": 1748529908576,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9082,
+    "ask": 0.9088,
+    "timestamp": 1748529905168,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2701,
+    "ask": 1.2705,
+    "timestamp": 1748529910143,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.9112,
+    "ask": 0.9117,
+    "timestamp": 1748529924150,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.027,
+    "ask": 124.069,
+    "timestamp": 1748529912141,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6653,
+    "ask": 0.6656,
+    "timestamp": 1748529906192,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.235,
+    "ask": 169.257,
+    "timestamp": 1748529927521,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6653,
+    "ask": 0.6658,
+    "timestamp": 1748529905772,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.175,
+    "ask": 169.2,
+    "timestamp": 1748529918750,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2698,
+    "ask": 1.2704,
+    "timestamp": 1748529925688,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/USD",
+    "bid": 1.2696,
+    "ask": 1.2703,
+    "timestamp": 1748529932725,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0822,
+    "ask": 1.0827,
+    "timestamp": 1748529909126,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6654,
+    "ask": 0.6659,
+    "timestamp": 1748529927571,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.493,
+    "ask": 205.52,
+    "timestamp": 1748529934880,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6151,
+    "ask": 0.6157,
+    "timestamp": 1748529938313,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "USD/CAD",
+    "bid": 1.3656,
+    "ask": 1.366,
+    "timestamp": 1748529912136,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.908,
+    "ask": 0.9086,
+    "timestamp": 1748529921995,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9077,
+    "ask": 0.9084,
+    "timestamp": 1748529934776,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0814,
+    "ask": 1.082,
+    "timestamp": 1748529904845,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.202,
+    "ask": 169.247,
+    "timestamp": 1748529911094,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "AUD/CAD",
+    "bid": 0.911,
+    "ask": 0.9115,
+    "timestamp": 1748529914094,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "NZD/USD",
+    "bid": 0.6148,
+    "ask": 0.6152,
+    "timestamp": 1748529931944,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 123.968,
+    "ask": 123.993,
+    "timestamp": 1748529928391,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.53,
+    "ask": 205.571,
+    "timestamp": 1748529910890,
+    "exchange": "EBS"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.248,
+    "ask": 169.292,
+    "timestamp": 1748529905824,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "CAD/JPY",
+    "bid": 124.01,
+    "ask": 124.035,
+    "timestamp": 1748529920424,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "AUD/USD",
+    "bid": 0.6646,
+    "ask": 0.665,
+    "timestamp": 1748529930876,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "EUR/JPY",
+    "bid": 169.179,
+    "ask": 169.213,
+    "timestamp": 1748529911374,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9079,
+    "ask": 0.9083,
+    "timestamp": 1748529913585,
+    "exchange": "Refinitiv"
+  },
+  {
+    "symbol": "GBP/JPY",
+    "bid": 205.518,
+    "ask": 205.551,
+    "timestamp": 1748529925056,
+    "exchange": "Xetra"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.082,
+    "ask": 1.0825,
+    "timestamp": 1748529933950,
+    "exchange": "LSEG"
+  },
+  {
+    "symbol": "USD/CHF",
+    "bid": 0.9082,
+    "ask": 0.9086,
+    "timestamp": 1748529947040,
+    "exchange": "BloombergFX"
+  },
+  {
+    "symbol": "EUR/USD",
+    "bid": 1.0821,
+    "ask": 1.0826,
+    "timestamp": 1748529906138,
+    "exchange": "EBS"
+  }
+]
