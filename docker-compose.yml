@@ -6,9 +6,21 @@ services:
       - kafka-network
     depends_on:
       - broker
+  subscription-service:
+    container_name: subscription-service
+    build: ../fx-subscription-service
+    ports:
+      - "8080:8080"
+    networks:
+      - kafka-network
+    depends_on:
+      - broker
   consumer:
     container_name: consumer
     build: ../fx-rate-processing-service
+#    enable for jvm remote debug
+#    ports:
+#      - "5005:5005"
     networks:
       - kafka-network
     depends_on:
