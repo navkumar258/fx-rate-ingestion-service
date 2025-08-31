@@ -26,7 +26,7 @@ public class KafkaProducerService {
   }
 
   public void sendMessage(FXRate fxRate) {
-    CompletableFuture<SendResult<String, FXRate>> future = kafkaTemplate.send(fxRatesTopic, fxRate.getCurrencyPair(), fxRate);
+    CompletableFuture<SendResult<String, FXRate>> future = kafkaTemplate.send(fxRatesTopic, fxRate.currencyPair(), fxRate);
 
     future.whenComplete((result, throwable) -> {
       if (throwable != null) {

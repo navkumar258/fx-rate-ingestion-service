@@ -40,11 +40,11 @@ public class FxRateIngestionServiceApplication {
 
 				for (FXRateRaw fxRateRaw : fxRates) {
 					FXRate fxRate = new FXRate(
-									fxRateRaw.getSymbol(),
-									fxRateRaw.getBid(),
-									fxRateRaw.getAsk(),
-									fxRateRaw.getBid().add(fxRateRaw.getAsk()).divide(BigDecimal.TWO, 4, RoundingMode.HALF_UP),
-									fxRateRaw.getTimestamp());
+									fxRateRaw.symbol(),
+									fxRateRaw.bid(),
+									fxRateRaw.ask(),
+									fxRateRaw.bid().add(fxRateRaw.ask()).divide(BigDecimal.TWO, 4, RoundingMode.HALF_UP),
+									fxRateRaw.timestamp());
 
 					this.kafkaProducerService.sendMessage(fxRate);
 				}
